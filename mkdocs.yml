@@ -1,0 +1,14 @@
+site_name: Documentation of Shopware 6 Plugins and Themes by Codegiganten
+repo_url: https://github.com/codegiganten/shopware-docs
+edit_uri: blob/master/docs-source/
+theme:
+  name: 'material'
+docs_dir: docs-source
+site_dir: docs-html
+extra_css:
+extra_javascript:
+nav:
+- Deutsch:
+  - Häufig gestellte Fragen (FAQ): de/faq.md
+  - Plugin Dokumentation:
+  - Theme Dokumentation:
